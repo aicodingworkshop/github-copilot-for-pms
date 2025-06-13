@@ -94,14 +94,6 @@ If the exercise isn't ready in 20 seconds, please check the [Actions](../../acti
 
 ---
 
-## What Product Managers Are Saying
-
-> *"I went from idea to working prototype in under 2 hours. This completely changed how I think about product development."* - Sarah K., Product Manager
-
-> *"Finally, I can validate product hypotheses without waiting for engineering sprints. Game changer for rapid iteration."* - Mike R., Startup Founder  
-
-> *"Understanding how features actually get built made me a better PM and improved my collaboration with engineers."* - Lisa T., Senior Product Manager
-
 ## Next Steps After This Exercise
 
 - **Advanced MVP Building**: Learn to integrate databases, authentication, and external APIs
