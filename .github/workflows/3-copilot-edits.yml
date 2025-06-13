@@ -1,9 +1,9 @@
-name: Step 3 # Copilot edits
+name: Step 3 # AI-Powered Feature Development
 
 on:
   push:
     branches:
-      - "accelerate-with-copilot"
+      - "mvp-improvements"
     paths:
       - "src/static/**"
 

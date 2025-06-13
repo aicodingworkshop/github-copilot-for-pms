@@ -1,4 +1,4 @@
-name: Step 3b # Copilot Agent Mode
+name: Step 3b # Advanced AI Agent Development
 
 on:
   issue_comment:

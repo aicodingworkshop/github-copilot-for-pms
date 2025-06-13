@@ -1,9 +1,9 @@
-name: Step 2 # Copilot chat
+name: Step 2 # UX Problem Solving with AI
 
 on:
   push:
     branches:
-      - "accelerate-with-copilot"
+      - "mvp-improvements"
     paths:
       - "src/app.py"
 

@@ -1,8 +1,11 @@
 """
-High School Management System API
+Student Activities Management Platform - MVP Demo
 
-A super simple FastAPI application that allows students to view and sign up
-for extracurricular activities at Mergington High School.
+A web application built to demonstrate how Product Managers can create functional 
+MVPs using AI-powered development tools. Students can discover and register for 
+extracurricular activities with social proof and capacity management features.
+
+Built as a learning exercise for AI-powered product management.
 """
 
 from fastapi import FastAPI, HTTPException
@@ -11,8 +14,8 @@ from fastapi.responses import RedirectResponse
 import os
 from pathlib import Path
 
-app = FastAPI(title="Mergington High School API",
-              description="API for viewing and signing up for extracurricular activities")
+app = FastAPI(title="Student Activities Platform API",
+              description="MVP API demonstrating AI-powered product management for student activity registration")
 
 # Mount the static files directory
 current_dir = Path(__file__).parent

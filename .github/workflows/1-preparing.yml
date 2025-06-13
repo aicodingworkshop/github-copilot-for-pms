@@ -1,9 +1,9 @@
-name: Step 1 # Preparing to make your extension
+name: Step 1 # Product Discovery & Environment Setup
 
 on:
   push:
     branches:
-      - "accelerate-with-copilot"
+      - "mvp-improvements"
 
 permissions:
   contents: read
