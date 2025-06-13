@@ -2,8 +2,6 @@
 
 _Empower Product Managers to build functional MVPs and prototypes using AI-powered development - no coding background required!_
 
-![image](https://github.com/user-attachments/assets/a1a9f6f7-efaa-48bc-a28f-67d11929d0a8)
-
 ## Welcome to AI-Powered Product Management 🚀
 
 - **Who is this for**: Product Managers, Entrepreneurs, Business Analysts, and anyone who wants to prototype products without waiting for developers.
