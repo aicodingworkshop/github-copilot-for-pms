@@ -1,5 +1,6 @@
-name: Step 0 # Start E      exercise-title: "Building Your First MVP with GitHub Copilot"
-      intro-message: "Welcome to AI-Powered Product Management! 🚀 In this exercise, you'll learn how Product Managers can build functional MVPs using GitHub Copilot, without requiring extensive coding experience. You'll transform product ideas into working software, validate user experiences, and ship features - all while learning how AI can accelerate your product development process! Let's build something amazing! ✨"rcise
+# exercise-title: "Building Your First MVP with GitHub Copilot"
+# intro-message: "Welcome to AI-Powered Product Management! 🚀 In this exercise, you'll learn how Product Managers can build functional MVPs using GitHub Copilot, without requiring extensive coding experience. You'll transform product ideas into working software, validate user experiences, and ship features - all while learning how AI can accelerate your product development process! Let's build something amazing! ✨"
+name: Step 0 - Start Exercise
 
 on:
   push:
